@@ -37,12 +37,14 @@ step(sys)
 	Save and Execute the program.
 	Analyse the result.
 ## Output:
-<img width="835" height="627" alt="ex01(a)op" src="https://github.com/user-attachments/assets/9152b8ac-b704-4771-9ab2-01b8b33bbf5a" />
-<img width="835" height="627" alt="exp01(b)op" src="https://github.com/user-attachments/assets/6922930b-39ff-44f4-8183-81fd00c6b78e" />
+
 
 
 ### Open Loop System:
+<img width="835" height="627" alt="ex01(a)op" src="https://github.com/user-attachments/assets/9152b8ac-b704-4771-9ab2-01b8b33bbf5a" />
 ### Closed Loop System:
+<img width="835" height="627" alt="exp01(b)op" src="https://github.com/user-attachments/assets/6922930b-39ff-44f4-8183-81fd00c6b78e" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
